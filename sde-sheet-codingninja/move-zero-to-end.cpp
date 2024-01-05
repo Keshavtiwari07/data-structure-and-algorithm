@@ -13,7 +13,6 @@ vector<int> moveZeros(int n, vector<int> a) {
 
     return vec;
  
-  
 }
 
 
