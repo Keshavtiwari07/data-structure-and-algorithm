@@ -1,5 +1,5 @@
 vector<int> getSecondOrderElements(int n, vector<int> a) {
-  // Write your code here.
+  // Write your code here. good problem 
 
   vector<int> vec1(2);
 
