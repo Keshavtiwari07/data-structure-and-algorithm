@@ -1,6 +1,6 @@
 int linearSearch(int n, int num, vector<int> &arr)
 {
-    // Write your code here.
+    // Write your code here. easy problem
     
     
     for (int i=0;i<n;i++){
