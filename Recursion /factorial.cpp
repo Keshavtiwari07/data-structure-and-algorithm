@@ -3,7 +3,7 @@ using namespace std;
 
 // Recursive function to calculate the factorial of a number 'n'
 int fact(int n) {
-    // Base case: if n is 0, factorial is 1 .
+    // Base case: if n is 0 factorial is 1 .
     if (n == 0)
         return 1;
 
